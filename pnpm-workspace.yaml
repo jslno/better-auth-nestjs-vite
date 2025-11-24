@@ -1,0 +1,10 @@
+packages:
+  - "apps/**"
+
+catalog:
+  better-auth: ^1.4.2-beta.4
+  "@better-auth/sso": ^1.4.2-beta.1
+  typescript: ^5.9.3
+  zod: ^4.1.13
+
+neverBuiltDependencies: []
